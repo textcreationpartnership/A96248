@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short declaration of the Assembly of Divines, by way of detestation of this abominable and blasphemous opinion, that God is, and hath an hand in, and is the author of the sinfulnesses of his people; mentioned in a book intituled, Comfort for believers, about their sins and troubles. Together with the orders of both Houses of Parliament for the burning of the said book by the hand of the common hangman.</title>
+            <author>Westminster Assembly</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96248</idno>
+            <idno type="STC">Wing W1447A</idno>
+            <idno type="STC">Thomason E294_3</idno>
+            <idno type="STC">ESTC R200177</idno>
+            <idno type="EEBO-CITATION">99860982</idno>
+            <idno type="PROQUEST">99860982</idno>
+            <idno type="VID">113109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96248)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113109)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E294[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short declaration of the Assembly of Divines, by way of detestation of this abominable and blasphemous opinion, that God is, and hath an hand in, and is the author of the sinfulnesses of his people; mentioned in a book intituled, Comfort for believers, about their sins and troubles. Together with the orders of both Houses of Parliament for the burning of the said book by the hand of the common hangman.</title>
+                  <author>Westminster Assembly</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Field for Ralph Smith, at the signe of the Bible in Cornhill, neer the Royall Exchange,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>July 25. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Archer, John. Comfort for beleevers about their sinnes &amp; troubles (Wing A3612).</note>
+                  <note>Annotation on Thomason copy: "July 28 this was burnt in Pauls Churchyard".</note>
+                  <note>Print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Archer, John, 17th cent. --  Comfort for beleevers about their sinnes &amp; troubles --  Early works to 1800.</term>
+               <term>God --  Early works to 1800.</term>
+               <term>Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113109:1" rendition="simple:additions"/>
+            <p>A SHORT DECLARATION OF THE Aſſembly of Divines, By way of Deteſtation of this Abominable and Blaſphemous OPINION,</p>
+            <p>That God is, and hath an hand in, and is the Author of the Sinfulneſſes of his People;</p>
+            <p>Mentioned in a Book Intituled, <hi>Comfort for Believers, about their Sins and Troubles.</hi>
+            </p>
+            <p>Together with the Orders of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment for the Burning of the ſaid Book by the hand of the common Hangman.</p>
+            <p>LONDON: Printed by <hi>Iohn Field</hi> for <hi>Ralph Smith,</hi> at the Signe of the Bible in Cornhill, neer the Royall Exchange, <hi>July</hi> 25. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration_to_Parliament">
+            <pb n="2" facs="tcp:113109:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Sabbathi,</hi> 12<hi rend="sup">o</hi>. <hi>Julii,</hi> 1645.</date>
+               </dateline>
+            </opener>
+            <p>COmplaint being this day made to the Lords in Parliament by the Aſſembly of Divines, That a certain blaſphemous and Hereticall Book, Intituled, <hi>Comfort for Believers, about their Sins and Troubles,</hi> is printed and publiſhed, being written by <hi>John Archer<g ref="char:punc">▪</g>
+               </hi> Mr. of <hi>Arts,</hi> ſometime Preacher at <hi>All-Hallowes Lumbardſtreet London,</hi> deceaſed; which unleſſe ſup<g ref="char:EOLhyphen"/>preſſed, will prove very miſchievous and Deregatory to this Church and State: Their Lordſhips much abhorring the ſaid Blaſphemies, do award and adjudge:
+<list>
+                  <item>1. That the ſaid Book ſhall be burnt by the hand of the Common-Hangman, in the new Pallace <hi>Weſtminſter,</hi> in the midſt of <hi>Cheapſide,</hi> and in the middle of <hi>Smithfield,</hi> in the County of <hi>Middl<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſex,</hi> withall convenient ſpeed.</item>
+                  <item>2. That the Printer ſhall be found out, who is to declare to this houſe by what Authority, and by whoſe direction he printed and publiſhed the ſaid Book.</item>
+                  <item>3. That all the ſaid Books ſhall be called in, and no more to be ſold, upon the Diſpleaſure of this Houſe; And that all ſuch who have any of the ſaid Books in their hands, as well private perſons as Book-ſellers, ſhall bring them unto the She<g ref="char:EOLhyphen"/>riffs of <hi>London</hi> or one of them, as they will anſwer the con<g ref="char:EOLhyphen"/>trary at their perils unto this Houſe.</item>
+                  <item>4. That the Aſſembly of Divines are deſired to draw up a Deteſtation of the ſaid Book, which is publiquely to be read by an Officer at the burning thereof; And that ſome of the ſaid Aſſembly be preſent at the ſame time.</item>
+               </list>
+            </p>
+            <closer>
+               <signed>Io: Brown Cleric. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="3" facs="tcp:113109:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Lunae, 14. Julii, 1645.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Parliament, That a Book Intituled, <hi>Com<g ref="char:EOLhyphen"/>fort for Believers about their Sins and Troubles,</hi> ſhall be forthwith publiquely burnt by the hand of the common Hang-man; Some of them in the Pallace-yard, and other ſome in Cheapſide, Smithfield, <hi>Pauls</hi> Church-yard, and the Exchange: And that the Maſter and Wardens of the Company of Stationers, and every other perſon in whoſe hands any of them do now remain, do deliver the ſame to the Sheriffs of <hi>London</hi> and <hi>Middleſex,</hi> who are hereby required to ſee this Order put in due execution.</p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Ordered, &amp;c.</hi> That the Aſſembly of Di<g ref="char:EOLhyphen"/>vines do appoint ſome of their Members to be preſent at the burning of theſe <hi>Books,</hi> and to declare to the people, the Abominableneſſe of it; and if there be cauſe, to vindicate the Author.</p>
+               <closer>
+                  <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="declaration_to_Parliament">
+            <pb n="4" facs="tcp:113109:3"/>
+            <head>A ſhort Declaration of the Aſſembly OF DIVINES, Agreed upon <hi>Nemine contradicente.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S it hath pleaſed the Honourable Houſes of Parliament, out of their pious care for preſerving Religion pure, from the leaven of pernicious and Blaſphemous Doctrine, to Order the burning of this moſt ſcandalous Book; ſo have they fur<g ref="char:EOLhyphen"/>ther appointed us to declare the abominableneſſe thereof unto the people. And we doubt not but every good Chriſtian, as ſoon as he ſhall hear the ſcope and contents of it, will, together with us, deteſt the horrid Blaſphemie therein aſſerted, and acknowledge the godly zeal, wiſdom, and juſtice of Authority, in Commanding it, as an execrable thing to be taken a<g ref="char:EOLhyphen"/>way, that it may not remain amongſt us, to provoke Gods wrath, and to produce ſuch perillous and per<g ref="char:EOLhyphen"/>nicious fruits, whereby the ſouls of many may be cor<g ref="char:EOLhyphen"/>rupted to their everlaſting deſtruction.</p>
+            <p>For whereas, that moſt vile and Blaſphemous Aſ<g ref="char:EOLhyphen"/>ſertion, whereby God is avowed to be the Author of ſin, hath hitherto by the generall conſent of Chri<g ref="char:EOLhyphen"/>ſtian Teachers and writers, both Ancient, and Mo<g ref="char:EOLhyphen"/>dern, and theſe as well Papiſts as Proteſtants, been not diſclaimed only, but even deteſted and abhorred: yet
+<pb n="5" facs="tcp:113109:3"/> in this book it is, not cloſely intimated, or occaſional<g ref="char:EOLhyphen"/>ly hinted, or i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſideratly and through inadvertency ſtumbled upon, but openly, in expreſſe Termes, and in a very foul manner propounded, maintained, and purpoſely at large proſecuted, to wit,</p>
+            <p>
+               <note n="a." place="margin">Pag. 37.</note> 
+               <q>
+                  <hi>That God</hi> is, <hi>and hath an</hi> hand in, <hi>and is the</hi> Author <hi>of the</hi> ſinfulneſſes <hi>of his people.</hi>
+               </q>
+            </p>
+            <p>
+               <note n="b." place="margin">Pag. 36.</note> 
+               <q>
+                  <hi>That he is the Author, not of thoſe actions alone, in and with which ſin is, but of the very</hi> Pravity, Ataxy, Anomy, Irregularity <hi>and</hi> ſinfulneſſe <hi>it ſelf which is in them.</hi>
+               </q>
+            </p>
+            <p>
+               <note n="c." place="margin">Pag. 37.</note> 
+               <q>
+                  <hi>That</hi> God <hi>hath more hand in mens ſinfulneſſe, then</hi> they <hi>themſelves.</hi>
+               </q>
+            </p>
+            <p>
+               <note n="d." place="margin">Pag. 38, 39.</note> 
+               <q>
+                  <hi>That the Creatures ſin doth produce</hi> the great<g ref="char:EOLhyphen"/>eſt good, <hi>either in</hi> Gods glory, <hi>or in the</hi> creatures happineſſe, <hi>as the</hi> next cauſe <hi>thereof, and that all that good is onely brought about by</hi> ſin.</q>
+            </p>
+            <p>
+               <note n="e." place="margin">Pag. 39.</note> 
+               <q>
+                  <hi>That it is as</hi> Incongruous <hi>and</hi> Inconve<g ref="char:EOLhyphen"/>nient <hi>to make</hi> God <hi>the</hi> Author <hi>of the</hi> Afflictions <hi>of the</hi> creature, <hi>as of the</hi> ſins.</q>
+            </p>
+            <p>
+               <note n="f." place="margin">Pag. 48.</note> 
+               <q>
+                  <hi>That by</hi> ſins <hi>Believers are as much nurtured and</hi> fitted for Heaven <hi>as by any thing elſe.</hi>
+               </q>
+            </p>
+            <p>
+               <note n="g." place="margin">Pag. 48.</note> 
+               <q>
+                  <hi>That God fits Believers for ſervice in this world, by leading them into ſins.</hi>
+               </q>
+            </p>
+            <p>
+               <note n="h." place="margin">Pag. 52.</note> 
+               <q>
+                  <hi>That no courſe is ſo full, to remove or prevent ſinfull or pernicious troubles for ſin, as this looking on</hi> God <hi>the</hi> Author of it, <hi>and the</hi> good <hi>which he</hi>
+                  <pb n="6" facs="tcp:113109:4"/> 
+                  <hi>brings about by it; which, becauſe it is rarely done</hi> by Believers, <hi>and indeed</hi> hardly known, he there<g ref="char:EOLhyphen"/>fore profeſſeth to have <hi>inlarged himſelf upon it.</hi>
+               </q>
+            </p>
+            <p>In theſe and many other like tearms hath he ſet forth this bl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſphemous Doctrine.</p>
+            <p>And further, hee condemneth our Orthodox Writers, for that they have only granted,</p>
+            <p>
+               <note n="i." place="margin">Pag 36, 37.</note> 
+               <q>
+                  <hi>That God is willing ſin ſhould be, and that he per<g ref="char:EOLhyphen"/>mits it, and orders circumſtances about its production, and over-rules it, and hath an hand in, and is the Author of the phyſicall or morall act, in and with which ſin is,</hi> ſaying <hi>that they have herein erred on the other hand, and made ſin more of the Creature, and it ſelf, and leſſe from God then it is.</hi>
+               </q>
+            </p>
+            <p>Beſides, the main ſcope of the Book is to per<g ref="char:EOLhyphen"/>ſwade men,</p>
+            <p>
+               <note n="k." place="margin">Pag. 4.</note> 
+               <q>
+                  <hi>Not to be oppreſſed or perplexed in heart, for any thing whatſoever befalls them either in ſin or affliction:</hi> As if our Saviour when he ſaith,</q> 
+               <hi>Let not your hearts be troubled</hi> (for that is the ground upon which he builds) had intended to dehort his Diſciples from being trou<g ref="char:EOLhyphen"/>bled for their ſins.</p>
+            <p>Very great is both the danger and ſcandall which would from ſo deteſtable a Poſition as this ariſe, if it ſhould be ſuffered without controule to be publiſhed and diſperſed abroad, eſpecially in ſuch a time as this, when on the one hand multitudes make uſe of the ſpe<g ref="char:EOLhyphen"/>cious name of Liberty for a cloak of naughtineſſe, and of admitting, and profeſsing many perverſe and cor<g ref="char:EOLhyphen"/>rupt opinions, exceeding injurious to the Goſpel of
+<pb n="7" facs="tcp:113109:4"/> Chriſt, and to the power of godlineſſe: and on the o<g ref="char:EOLhyphen"/>ther hand, many watch for our halting, and glory in nothing more againſt us, then in thoſe advantages which the weakneſſe and inſtability of ſuch as are car<g ref="char:EOLhyphen"/>ried about with every winde of Doctrine, and are not ſetled and rooted in the truth, doth moſt unhappily miniſter unto them, to the unſpeakable prejudice of the Church of Chriſt, and obſtructing of that bleſſed Reformation, which is by all good men ſo earneſtly deſired.</p>
+            <p>Exceeding dangerous it is unto the ſouls of men, both as a means to inſtill into them blaſphemous and impure conceits of the Majeſty of our moſt holy God, as alſo by working them to a ſlighting, and diſregar<g ref="char:EOLhyphen"/>ding of ſin; and conſequently letting looſe the rains to all corrupt and licentious living (for by how much the leſſe the trouble is after ſin committed, by ſo much the greater uſually is the boldneſſe in the Commit<g ref="char:EOLhyphen"/>ting of it)</p>
+            <p>And the ſcandall hence ariſing is every whit as great, both in regard of the offence, which is thereby given unto the Reformed Churches, who in their publick Confeſsions, make Satan, and man himſelf the only cauſes or Authors of ſin, and ſome of them do in thoſe their Confeſsions by name damne this wicked Poſition: And alſo in regard of the great advantage which it giveth to our Common adverſaries the Pa<g ref="char:EOLhyphen"/>piſts, who have hitherto only calumniouſly charged the Doctrine of the Reformed Churches with ſo odi<g ref="char:EOLhyphen"/>ous a crime (in the mean time confeſsing that we do in words deny it as well as they themſelves) whereas now ſhould this bo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k be tolerated, they might juſtly inſult over us, and publiſh to the world, that now in
+<pb n="8" facs="tcp:113109:5"/> the Church of England it was openly, and impunely maintained, That God is the Author of ſin, Then which there is not any one point, whereby they la<g ref="char:EOLhyphen"/>bour in their Sermons and popular Orations, to caſt a greater <hi>Odium</hi> (though moſt injuriouſly) upon the Reformed Churches.</p>
+            <p>And albeit the perſon mentioned to be the Author of this Book hath been of good eſtimation, for Lear<g ref="char:EOLhyphen"/>ning and piety: yet ſince it hath ſo deeply wounded the honour and truth of God, We ought not at all to be by any ſuch juſt conſideratio<g ref="char:cmbAbbrStroke">̄</g> withheld, from declaring but juſt deteſtation of ſo odious a Book: for if any man, yet if an Angel from Heaven Preach any thing contrary to the Goſpel of Chriſt, the Apoſtle is not afraid to pronounce him accurſed: And indeed it is a very dan<g ref="char:EOLhyphen"/>gerous thing (and ſo much the more dangerous, by how much the more ordinary and uſuall) to take up new and corrupt opinions upon truſt, only on this in<g ref="char:EOLhyphen"/>ducement, a perſwaſion which we have of the ſanctity of thoſe perſons, who are the Authors of them; for we ought to try the ſpirits whether they be of God, and to ſearch the Scriptures, whether the things taught us be ſo or no; and having tried all things, to hold faſt that which is good, and upon no pretence whatſoever to depart from the form of ſound words in the Scrip<g ref="char:EOLhyphen"/>tures delivered unto us, or for the reverence or eſtima<g ref="char:EOLhyphen"/>tion of any mans perſon to entertain any ſuch opinions as do in the very words of them aſperſe the honour and holineſſe of God, and are by all the Churches of Chriſt rejected. And therefore moſt juſtly hath Au<g ref="char:EOLhyphen"/>thority appointed execution in this manner to be done upon this Book.</p>
+            <closer>
+               <dateline>
+                  <date>July 17. 1645.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Henry R<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>brough,</hi> Scriba.</item>
+                     <item>
+                        <hi>Adoniram Byfield,</hi> Scriba.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
